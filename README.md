@@ -1,1 +1,1 @@
-# blosky
+# blosky genomic
