@@ -1,1 +1,1 @@
-# blosky genomic
+# blosky genomic keminitnit
